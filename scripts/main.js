@@ -1,5 +1,5 @@
  function sayOuch() {
- 	alert('Ouch! Stop poking me!');
+ 	alert('Ouch! Stop poking me Ingrid!');
  }
  
  // Use a CSS selector to identify an element
